@@ -7,3 +7,4 @@ for i in range(180):
     t.circle(i)
     t.left(5)
 t.done()
+s=10
