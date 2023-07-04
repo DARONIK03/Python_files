@@ -1,4 +1,4 @@
-#   ----=====   first turtle implementation(GRAPHICAL SPHERE/BACTERIA LIKE STRUCTURE)
+#   ----=====   first turtle implementation(BACTERIA LIKE STRUCTURE)
 import turtle
 t=turtle .Turtle()
 s= turtle.Screen()
