@@ -11,5 +11,5 @@ sum = n1 + n2
 # printing values
 
 print("Sum of {0} and {1} is {2}" .format(n1, n2, sum))
-
+# format functon helps us to put values ( in this case)
 print(sum)
