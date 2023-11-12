@@ -1,3 +1,4 @@
+# this programme generates passes randomly that we can use them 
 import string
 import random
 lenop=int(input("Enter the length of the password you want to generate:-"))
